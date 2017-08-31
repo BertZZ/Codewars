@@ -8,5 +8,3 @@ function differenceInAges(ages){
   var result = [first, last, diff]
   return result
 }
-
-differenceInAges([82, 15, 6, 38, 35])
